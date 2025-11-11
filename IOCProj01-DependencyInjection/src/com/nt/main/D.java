@@ -2,6 +2,6 @@ package com.nt.main;
 
 public class D {
 	public String namePrinter() {
-		return "Sonu";
+		return "Gandu Sonu";
 	}
 }
